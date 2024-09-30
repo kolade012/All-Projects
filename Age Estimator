@@ -1,0 +1,29 @@
+Age Estimator App
+
+Overview
+Developed an Android application that estimates a person's age from a photograph with a Mean Squared Error (MSE) of 10. The app leverages machine learning to provide quick and reasonably accurate age predictions directly on the device.
+
+Key Features
+- Photo capture using device camera
+- Gallery integration for existing image selection
+- Real-time age estimation from live camera feed
+- Results display with estimated age and confidence level
+
+Technical Stack
+- Android Studio (Java/Kotlin)
+- TensorFlow Lite for on-device ML
+- Android Camera X library
+- Android Jetpack components
+
+Challenges Overcome
+- Optimized ML model for mobile performance
+- Implemented efficient image processing pipeline
+- Balanced accuracy and app responsiveness
+
+Future Improvements
+- Further reduce MSE to below 5
+- Enhance UI/UX design
+- Add age progression/regression feature
+- Implement batch processing capability
+
+This project showcases proficiency in Android development, integration of machine learning models in mobile applications, and handling of camera and image processing tasks.
