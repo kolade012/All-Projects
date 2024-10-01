@@ -10,7 +10,7 @@ Key Features
 - Results display with estimated age and confidence level
 
 Technical Stack
-- Android Studio (Java/Kotlin)
+- Android Studio (Java)
 - TensorFlow Lite for on-device ML
 - Android Camera X library
 - Android Jetpack components
